@@ -10,7 +10,7 @@ Step 2: Open Visual Studio Code and open the project folder.
 
 Step 3: Locate the lib folder, then ooen the main.dart file.
 
-Step 4: Open the Xcode application, on the Xcode option >> developer tools >> simulator option
+Step 4: Open the Xcode application, on the Xcode option >> Open Developer Tool >> Simulator
 
 Step 5: At the upper right corner, run the project withput debugging.
 
