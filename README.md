@@ -1,16 +1,19 @@
-# profile_user
+Flutter Application: User Profile Page.
 
-A new Flutter project.
+Project Requirements: Visual Studio Code, Xcode(To run the simulator), MacOS
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Step 1: Clone the app to your computer to your desired location on your computer
 
-A few resources to get you started if this is your first Flutter project:
+Step 2: Open Visual Studio Code and open the project folder.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Step 3: Locate the lib folder, then ooen the main.dart file.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Step 4: Open the Xcode application, on the Xcode option >> developer tools >> simulator option
+
+Step 5: At the upper right corner, run the project withput debugging.
+
+Step 6: Once the app loads, when you click the profile picture it allows you to edit details on the application. Once you have changed the details, click the save button.
+
+
